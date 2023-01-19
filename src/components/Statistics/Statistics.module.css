@@ -1,0 +1,13 @@
+.statItem {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+
+.statList li:nth-child(4){
+    font-size: 20px;
+    font-weight: 600;
+}
+.statList li:nth-child(5){
+    font-size: 25px;
+    font-weight: 650;
+}
